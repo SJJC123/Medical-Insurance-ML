@@ -65,5 +65,5 @@ This is a Machine Learning project that predicts the charges (price) insurance c
 ---
 
 ### **Why This Project is Valuable**
-This project demonstrates end-to-end implementation of a regression-based machine learning workflow. It highlights the use of Python libraries, best practices in data analysis, and model tuning. The skills demonstrated align well with real-world tasks in data science and machine learning, making it a strong portfolio addition.
+This project demonstrates end-to-end implementation of a regression-based machine learning workflow. It highlights the use of Python libraries, best practices in data analysis, and model tuning. The skills demonstrated align well with real-world tasks in data science and machine learning.
 
